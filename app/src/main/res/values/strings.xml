@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">parcial1gwendalsaget</string>
+    <string name="Principal">Main</string>
+    <string name="Principal2">Añadir Clase</string>
+    <string name="Principal3">Ver Horario</string>
+    <string name="Principal4">Que toca ahora</string>
+</resources>
